@@ -5,16 +5,16 @@ Este repositório contém um projeto desenvolvido para analisar textos usando a 
 ## Processo de Análise 📊
 
 1. Adicionei algumas sentenças no arquivo `inputs/example.txt`.
-2. Utilizei o Language Studio ferramenta de IA para analisar o conteúdo e interpretar sentimentos, palavras-chave e mais.
+2. Utilizei o Language Studio uma ferramenta de IA para analisar o conteúdo e interpretar sentimentos, palavras-chave
 3. Coompreendi como a IA pode ser aplicada em diferentes cenários e como ela está presente no nosso coditidiano como em atendimento ao cliente, automação de tarefas, assistentes virtuais e etc.
 
 ## Insights 💡
 
 - A IA pode identificar sentimentos, como positivo, negativo e neutro, em textos.
-- É possível usar a IA para criar ferramentas que abrangem várias áreas como tradutores em tempo real, ferramentas de acessibilidade, análise de dados de um negócio
+- É possível usar a IA para criar ferramentas que abrangem várias áreas como tradutores em tempo real, ferramentas de acessibilidade, análise de dados de um negócio.
 
 ## Prints 📸
 
 ![Print 1](./prints/1.png)
-![Print 1](./prints/2.png)
-![Print 1](./prints/3.png)
+![Print 2](./prints/2.png)
+![Print 3](./prints/3.png)
